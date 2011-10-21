@@ -1,0 +1,7 @@
+.gitignore
+.settings
+bin
+gen
+*.swp
+tags
+*.trace
