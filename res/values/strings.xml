@@ -2,4 +2,7 @@
 <resources>
     <string name="hello">Hello World, MonkeyCamActivity!</string>
     <string name="app_name">MonkeyCam</string>
+    <string name="about_title">About</string>
+    <string name="about_text">Replaces human faces with monkey faces! Point your phone at your friends and watch their faces
+    						change before your eyes.</string>
 </resources>
