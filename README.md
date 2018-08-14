@@ -11,7 +11,7 @@ Designed to experiment with Android's face recognition functionality.
 This is an app that was developped in our spare time.  It is available 
 on Google Play http://tinyurl.com/cu5mjsf.  
 
-For more info on how the face detection works you can refer to the the 
+For more info on how the face detection works you can refer to the 
 following blog post http://thefiles.macadamian.com/2012/04/real-time-face-detection-with-android.html
 
 We do not have an active maintainer.  We are releasing the code under 
